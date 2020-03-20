@@ -1,0 +1,2 @@
+# nuxtjs-demo
+demo application
